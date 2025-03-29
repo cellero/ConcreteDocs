@@ -1,7 +1,9 @@
 # Navigation
 
-This template is used to create a minimalist MAUI application project.
+This topic shows you how to navigate around the system
 
-## How to Start With?
+## Side Menu
 
-First, install the [ABP CLI](../cli) if you haven't installed before:
+All menu items are availale using the side menu.  The side menu automatically shows when you mouse over the left menu pane
+
+
