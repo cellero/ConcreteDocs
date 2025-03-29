@@ -54,7 +54,7 @@
           "text": "Overview",
           "path": "tutorials",
           "isIndex": true
-        },        
+        },
         {
           "text": "Community Articles",
           "path": "https://abp.io/community"
@@ -68,7 +68,8 @@
           "text": "Overview",
           "path": "tools.md",
           "isIndex": true
-        },
+        }
+      ]
     },
     {
       "text": "Calendar",
@@ -80,8 +81,9 @@
               "text": "Overview",
               "path": "framework/fundamentals",
               "isIndex": true
-            }, 
+            }
+          ]
         }
-   }
+    }
   ]
 }
