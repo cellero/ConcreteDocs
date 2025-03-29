@@ -1,6 +1,6 @@
 # Get Started
 
-Great that you've decided to create a new application with ABP. ABP provides multiple startup templates for different needs. Each startup template is a fine-tuned and production-ready .NET solution that you can immediately start to develop your application based on it.
+To use the system effectively you must first learn the basics of navigation, searching and editing information
 
 Please select one of the following documents best fits for your application:
 
