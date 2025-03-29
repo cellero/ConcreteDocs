@@ -1,6 +1,6 @@
 # <span translate="no">Cellero Concrete</span>
 
-Cellero offers an **opinionated architecture** to build enterprise software solutions with **best practices** on top of the **.NET** and the **ASP.NET Core** platforms. It provides the fundamental infrastructure, production-ready startup templates, pre-built application modules, UI themes, tooling, guides and documentation to implement that architecture properly and **automate the details** and repetitive works as much as possible.
+Cellero documentation platform contains all user help for the Cellero Concrete product.
 
  
 
