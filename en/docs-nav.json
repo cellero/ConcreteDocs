@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "text": "Get me Started",
+      "text": "Getting Started",
       "items": [
         {
           "text": "Overview",
@@ -9,8 +9,8 @@
           "isIndex": true
         },
         {
-          "text": "Single Layer Web Application",
-          "path": "get-started/single-layer-web-application.md"
+          "text": "Navigation",
+          "path": "get-started/navigation.md"
         },
         {
           "text": "Layered Web Application",
