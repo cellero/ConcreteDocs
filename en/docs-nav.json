@@ -13,13 +13,9 @@
           "path": "get-started/navigation.md"
         },
         {
-          "text": "Layered Web Application",
-          "path": "get-started/layered-web-application.md"
-        },
-        {
-          "text": "Microservice Solution",
-          "path": "get-started/microservice.md"
-        }     
+          "text": "Searching",
+          "path": "get-started/searching.md"
+        } 
       ]
     },
     {
